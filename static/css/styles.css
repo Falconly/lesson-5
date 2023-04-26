@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+li.nav-item {
+	padding-left: 20px;
+}
+
+.content {
+	max-height: 80%;
+}
+
+.wrapper {
+	margin: auto;
+	max-width: 80%;
+	max-height: 80%;
+
+}
+
+.card {
+	margin: auto;
+	margin-top: 10%;
+}
+
+.form-add-worker {
+	margin: auto;
+	height: 0;
+	margin-top: 10%;
+	max-width: 30vw;
+}
